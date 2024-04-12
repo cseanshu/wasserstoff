@@ -9,6 +9,7 @@
 2.npm run dev
 -deployed Link:-
 https://anshumanastrix.netlify.app/
+Demo Video Link:-https://www.loom.com/share/f08f75e6a42b41739a735a1940399463?sid=ef9594d6-d920-4d59-8828-c7a09a83e534
 -My apporach regarding project:-
 1.First created the Landing page fully animated .
 2. Landing page should be conditionally rendered and when you click on the landing page you we on he home page of the website.
