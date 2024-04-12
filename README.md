@@ -2,6 +2,8 @@
 -Overview About the projects
 -Title:-ASTRIX_PROJECT
 -TechStack:- React.js,tailwind
+
+
 -Steps to run/build project:- 
 1.install npm 
 2.npm run dev
@@ -17,6 +19,16 @@ https://anshumanastrix.netlify.app/
 7.Forward and backword button works wells .
 8.Make fully responsive page for all the devices and fully animated
 
+for the small device overview screenshots
+![Screenshot 2024-04-12 134556](https://github.com/cseanshu/wasserstoff/assets/76550975/9eddfbd7-c4c5-44de-84dd-1eaa596f0acb)
+
+for the medium device overview screenshots
+![Screenshot 2024-04-12 134709](https://github.com/cseanshu/wasserstoff/assets/76550975/f3c1cdd0-a78c-4f33-86ae-682b7e17f31e)
+![Screenshot 2024-04-12 134648](https://github.com/cseanshu/wasserstoff/assets/76550975/a7087571-a24e-43dd-ae57-1b494fe61695)
+![Screenshot 2024-04-12 134726](https://github.com/cseanshu/wasserstoff/assets/76550975/0c1aea22-6738-462b-b6ab-955dbe232224)
+sceenshoots for the large device overview screenshots
+![Screenshot 2024-04-12 134753](https://github.com/cseanshu/wasserstoff/assets/76550975/4a2741e6-d10c-4153-996b-b76680314fdf)
+![Screenshot 2024-04-12 134814](https://github.com/cseanshu/wasserstoff/assets/76550975/d8495100-5582-42de-b8a7-f2eb60c87b2a)
 
 
 
