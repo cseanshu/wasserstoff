@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+:root{
+    background-color: #15181B;
+    color:white;
+}
+/* animating the text in the vertical div */
+@keyframes slide-top{
+    0%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(-100px);
+    }
+    100%{
+        transform: translateY(-200px);
+    }
+}
+.animate__top-bottom{
+    animation: slide-top 2.5s ease-in forwards infinite;
+}
+
+/* animating the image in home page */
+@keyframes slide-left{
+    0%{
+        transform: translateX(-200px);
+    }
+    15%{
+        transform: translateX(-400px);
+    }
+    25%{
+        transform: translateX(-500px);
+    }
+    50%{
+        transform: translateX(-900px);
+    }
+    65%{
+        transform: translateX(100px);
+    }
+    75%{
+        transform: translateX(200px);
+    }
+    100%{
+        transform: translateX((300px));
+    }
+
+}
+.animate__image{
+    animation:slide-left 6s ease-in backwards infinite
+}
+
+/* text-animation in collectible */
+
+.animate__text{
+    animation:slide-left 6s ease-in backwards infinite
+}
+
+/*  animation of image in the Landing page */
+@keyframes slide-width{
+    0%{
+        width: 80px;
+    }
+    50%{
+        width: 150px;
+    }
+    100%{
+        width: 250px;
+    }
+  
+}
+.Landing__image-animate{
+    animation: slide-width 2s ease-out forwards infinite;
+}
+
+  /* landing page animation */
+  @keyframes slide-up {
+    from {
+      transform: translateY(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  .landing {
+    animation: slide-up 2s ease forwards;
+  }
+
+
+  /* making the landing page responsive */
+
+  @media (max-width: 600px) {
+    .responsive {
+        top: 250px;
+        left: 180px;
+     
+     font-weight: bolder;
+      letter-spacing: .5px;
+    }
+    .p_responsive{
+        font-size: 20px;
+        overflow: hidden;
+    }
+    .mobile-col{
+        flex-direction: column;
+        row-gap: 10px;
+        align-items: center;
+  }
+  .mobile-font{
+    font-size: 30px;
+  }
+  .mobile-aspect{
+    width: 75px;
+  }
+
+}
+  @media(min-width:500px) and (max-width:900px){
+    .responsive-medium{
+        top: 250px;
+        left: 50px;
+        font-size: 20px;
+        overflow-wrap: normal;
+    }
+
+  }
