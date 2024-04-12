@@ -1,13 +1,13 @@
 
-Overview About the projects
-Title:-ASTRIX_PROJECT
-TechStack:- React.js,tailwind
-Steps to run/build project:- 
+-Overview About the projects
+-Title:-ASTRIX_PROJECT
+-TechStack:- React.js,tailwind
+-Steps to run/build project:- 
 1.install npm 
 2.npm run dev
-deployed Link:-
+-deployed Link:-
 https://anshumanastrix.netlify.app/
-My apporach regarding project:-
+-My apporach regarding project:-
 1.First created the Landing page fully animated .
 2. Landing page should be conditionally rendered and when you click on the landing page you we on he home page of the website.
 3.Now created the home page with all it's beautifull animation and UI/UX .
